@@ -30,31 +30,23 @@ Clone repository from github
 ```
 git clone https://github.com/arafatse12/laravel-inventory-system
 ```
-
 ### Step 2:
 Run composer
 --- Composer install
-```
-```
 ### Step 3:
 --- npm install && npm run watch
-```
-```
+
 ### Step 4:
 ------
 Create database 
-```
-```
+
+
 ### Step 5:
-Create `.env` file by typing below command from `.env.example`, then update `.env` file
-```
-```
-### Step 6:
 ```
 php artisan key:generate
 ```
 
-### Step 7:
+### Step 6:
 ```
 php artisan migrate
 ```
